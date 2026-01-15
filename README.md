@@ -1,5 +1,3 @@
-# Dynamic-pricing-demand-optimization
-
 # Dynamic Pricing & Demand Optimization for E-Commerce
 
 This project builds a data-driven dynamic pricing engine that predicts demand at different price levels and optimizes product prices to maximize revenue. The system uses historical sales data, price sensitivity, and demand forecasting models to support intelligent pricing decisions.
